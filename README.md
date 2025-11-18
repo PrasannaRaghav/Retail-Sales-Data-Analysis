@@ -1,4 +1,5 @@
 🎯 Retail Sales Data Analysis SQL Project
+
 📌 Project Overview
 
 Project Title: Retail Sales Data Analysis
@@ -104,5 +105,6 @@ This project provides a complete introduction to SQL for data analysts—coverin
 The insights generated can support decisions on product performance, customer behavior, and seasonal trends.
 
 👨‍💻 Author – Prasanna Raghav
+
 
 This project is part of my portfolio, showcasing SQL and data analysis skills for Data Analyst and SQL Developer roles.
